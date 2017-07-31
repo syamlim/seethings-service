@@ -1,1 +1,1 @@
-# seethings-service is a awesome IoT project!
+# seethings-service is an awesome IoT platform services!
