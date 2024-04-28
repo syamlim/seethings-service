@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SeethingsApplication {
 
 	public static void main(String[] args) {
+                #add comment here
 		SpringApplication.run(SeethingsApplication.class, args);
 	}
 }
